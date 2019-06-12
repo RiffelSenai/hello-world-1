@@ -1,6 +1,6 @@
 # hello-world
 O clássico Hello World
-
+Felipe Riffel
 Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) do Markdown.
 
 
@@ -8,5 +8,5 @@ Link para a [folha de macetes](https://github.com/adam-p/markdown-here/wiki/Mark
 
 [Guia Hello World](https://guides.github.com/activities/hello-world/)
 
-[:godmode:](https://gist.github.com/rxaviers/7360908)
+[:smiling_imp:](https://gist.github.com/rxaviers/7360908)
 
